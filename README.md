@@ -1,2 +1,2 @@
 # hello-world
-creating a repo
+creating a repository
